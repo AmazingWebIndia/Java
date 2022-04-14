@@ -8,5 +8,6 @@ class String1
 		char ch= str.charAt(9/2);
 		int as = ch;
 		System.out.println((char) as); 
+		System.out.println("Work is Completed Sir !!!");
 	}
 }
